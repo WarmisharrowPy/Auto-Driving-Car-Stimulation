@@ -58,27 +58,3 @@ while drive:
     window.blit(car, (car_x, car_y))
     pygame.draw.circle(window, (0, 0, 0), (cam_x, cam_y), 3, 3)
     pygame.display.update()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
